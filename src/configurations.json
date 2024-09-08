@@ -1,0 +1,30 @@
+{
+  "backgroundType": "plain",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "BharindoNews",
+  "devDesc": "Esensi Sebuah Berita",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "backgroundImageUrl": "http://hdwpro.com/wp-content/uploads/2017/03/Art-Background-Image.png",
+  "icons": [
+    {
+      "image": "fa-wordpress",
+      "url": "https://mytrashcode.com"
+    },
+    {
+      "image": "fa-github",
+      "url": "https://github.com/bharindonews"
+    },
+    {
+      "image": "fa-twitter",
+      "url": "https://twitter.com/bharindonews"
+    },
+    {
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/bharindonews/"
+    },
+    {
+      "image": "fa-website",
+      "url": "https://www.linkedin.com/id/bharindonews/"
+    }
+  ]
+}
